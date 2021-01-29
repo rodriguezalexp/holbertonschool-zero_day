@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 CC#!/bin/bash
 echo "Holberton School"
+=======
+BB#!/bin/bash
+echo "Holberton School is so cool!"
+>>>>>>> ac04d245217a7f7d4b98ffd9f857c2a2463ffaaf
