@@ -1,1 +1,1 @@
-This is an re-edition of README task.
+This is a new edition.
