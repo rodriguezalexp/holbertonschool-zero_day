@@ -1,1 +1,1 @@
-This is the beginnig of git task
+This is an re-edition of README task.
